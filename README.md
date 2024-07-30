@@ -1,6 +1,6 @@
 - Hi, I am @LucasDeSousaR
 - I am a student of the course in analysis and development of systems at FATEC Campinas
-- I have been working since 2015 as a mainframe operator, currently at Kyndryl.
+- I worked as a Mainframe Operator since 2015, most recently at Kyndryl.
 - 📫 How to reach me ...
 Contact me through 
 email: rodrigueslucas1114@gmail.com or lucas.rodrigues126@fatec.sp.gov.br
